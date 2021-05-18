@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+
+<div id="content">
+    <div class="post-title"><h2>Current Research</h2></div>
+    <div class="post">
+        <h3>Extragalactic Stellar Populations</h3>
+        <p class='indent'>My research revolves around comparing the properties of populations, i.e very large groups, of stars in other galaxies with those in own galaxy, the Milky Way. These properties include the age, chemical composition (average abundance of elements), kinematics (how the stars move), and formation. In order to investigate these stellar populations, I have used near-infrared, light with a wavelength slightly longer than visible light, spectroscopy obtained with the NIFS instrument on the <a href='www.gemini.edu'>Gemini North Telescope</a> in Hawaii as well as the Wide <a href='https://en.wikipedia.org/wiki/Integral_field_spectrograph'>Integral Field</a> Infrared Spectrograph (<a href='instrumentation.php'>WIFIS</a>) on the 2.3 m Bok Telescope in Arizona.</p>
+        
+        <h3>Does the Galactic Environment Affect Star Formation?</h3>
+
+<p>The most defining characteristic of a star is its mass. Simply put, the mass of a star, along with its chemical composition, well defines how long the star will live, how big it will get, how hot it will be, and how its properties change as it ages. Stars form in a wide range of masses from approximately 0.08 to over 100 times the mass of our Sun.</p>
+        <p>A currently debated question in astronomy is whether the local galaxy environment affects the fundamental properties of star formation. One of these properties is the Initial Mass Function (IMF) which describes the original distribution of stellar masses when a population of stars forms from interstellar gas and dust clouds. It is generally assumed that the IMF does not change from galaxy to galaxy, population to population, and is always similar to the IMF derived for stars in the Milky Way.</p>
+<p>Recent research using novel analysis techniques, however, has raised some new questions regarding the basis for this assumption. The research indicates that the most massive galaxies in the universe have a much higher percentage of low mass than high mass stars compared to the Milky Way. This is supported by my <a href='https://ui.adsabs.harvard.edu/abs/2019ApJ...875..151M/abstract'>investigation</a> into the stellar populations of the central regions of two nearby galaxies, M85 and M87, using near-infrared integral field spectroscopy from the NIFS instrument. We found that the more massive galaxy, M87, likely had a greater percentage of low mass stars than the smaller M85.</p>
+        <p>To further this study, I am conducting an extragalactic survey of nearby galaxies with the the recently commissioned <a href='instrumentation.php'>WIFIS instrument</a>. With this survey, I hope to determine if this apparent IMF variation is located to specific regions within individual galaxies, or if it is a global galactic property. Similar to the NIFS instrument, WIFIS operates in the near-infrared. A majority of the recently published studies on IMF variation have focused on employing spectra at visible wavelengths. In contrast, near-infrared spectra can be particularly useful for investigating the IMF as the low-mass stars in question emit most of their light at these wavelengths. In addition, the NIR is less affected by interstellar dust absorption than visible light.  
+    </div>
+</div>
+
