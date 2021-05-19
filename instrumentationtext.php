@@ -2,7 +2,7 @@
 
 
 <div id="content">
-			<div class="post-title"><h2>Astronomy Instrumentation</h2></div>
+			<div class="post-title"><h2>Instrumentation for Astronomy</h2></div>
 			<div class="post">
 			
             <h3 class='strong'>The Wide Integral Field Infrared Spectrograph (WIFIS)</h3>

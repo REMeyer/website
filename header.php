@@ -3,7 +3,7 @@
 <div id="header-wrapper">
     <div id="header" class="container">
         <div id="logo">
-            <h1><a href="#">Dr. R Elliot Meyer</a></h1>
+            <h1><a href="index.php">Dr. R Elliot Meyer</a></h1>
             <p>Postdoctoral Research Assistant - University of Oxford</p>
         </div>
         <div id="social">
