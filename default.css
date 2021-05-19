@@ -93,8 +93,9 @@ a img {
 .image-left
 {
     float: left;
-    padding-right: 20px;
-    padding-bottom: 5px;
+    /**padding-right: 20px;**/
+		margin-bottom: 15px;
+		border: 2px solid;
 }
 
 .image-centered
@@ -114,13 +115,13 @@ a img {
 
 #wrapper {
 	background: #FFF;
-    	margin: 0px 50px;
-    	min-width: 1000px;
+    	margin: 0px auto;
+    	width: 1100px;
 }
 
 .container {
-	width: 1000px;
-	margin: 0px auto;
+	width: 1050px;
+	margin: 0px;
 }
 
 .clearfix {
@@ -131,20 +132,23 @@ a img {
 
 #header-wrapper
 {
-	background: #344080 url(images/overlay.png) repeat;
+	/**background: #344080 url(images/overlay.png) repeat;**/
+	background-image: url(images/DSC_0365.png);
+	background-size: cover;
+	padding: 0px 25px;
 }
 
 #header {
 	position: relative;
 	overflow: hidden;
-	height: 160px;
+	height: 250px;
 }
 
 #social
 {
 	position: absolute;
-	top: 3.25em;
-	right: 5%;
+	top: 60%;
+	right: 0%;
 }
 
 /** LOGO */
@@ -170,8 +174,8 @@ a img {
 	padding-left: 3px;
 	letter-spacing: 0.05em;
 	text-transform: uppercase;
-	font-size: 0.9em;
-	color: rgba(255,255,255,.4);
+	font-size: 0.95em;
+	color: rgba(255,255,255,0.6);
 }
 
 #logo p a {
@@ -189,7 +193,7 @@ a img {
 
 #menu {
 	overflow: hidden;
-	background: #4E64AD;
+	background: #434C6D;
 }
 
 #menu ul {
@@ -212,7 +216,7 @@ a img {
 	text-align: center;
 	font-size: 16px;
 	font-weight: 200;
-	color: rgba(255,255,255,0.5);
+	color: rgba(255,255,255,0.85);
 	border: none;
 }
 
@@ -239,9 +243,9 @@ a img {
 
 #content {
 	float: left;
-	width: 700px;
-    padding-left: 20px;
-	padding-right: 30px;
+	width: 750px;
+  padding-left: 25px;
+	padding-right: 25px;
 	border-right: 1px solid #E6E7DC;
 }
 
@@ -273,7 +277,7 @@ a img {
 #sidebar1 {
 	float: right;
 	width: 200px;
-	padding-right: 20px;
+	/**padding-right: 20px;**/
 }
 
 #sidebar1 #box1 {
@@ -289,16 +293,24 @@ a img {
 	font-size: 11pt;
 }
 
+#sidebar1 img {
+		margin-bottom: 15px;
+		border: 2px solid;
+}
+
+
 /* Footer */
 
 #footer {
 	overflow: hidden;
-	padding: 30px 0px 30px 0px;
+	width: 1100px;
+	/*padding: 30px 0px 30px 0px;*/
+	margin: 30px auto;
 }
 
 #footer p {
 	text-align: right;
-    padding-right: 50px;
+    padding-right: 20px;
 	color: rgb(255,255,255);
 }
 
@@ -416,7 +428,7 @@ ul.style1 .first {
 	{
 		color: #FFF;
         display: inline-block;
-		background: #4E64AD;
+		background: #434C6D;
 		width: 50px;
 		height: 50px;
 		line-height: 50px;
